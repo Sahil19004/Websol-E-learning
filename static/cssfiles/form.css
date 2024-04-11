@@ -1,0 +1,46 @@
+.ff {
+    padding: 10px;
+    border: 1px solid black;
+    box-shadow: 2px 4px 8px black;
+    border-radius: 2px;
+
+}
+
+
+
+.f1 {
+
+    width: 100%;
+    height: 30px;
+    margin-top: 5px;
+
+}
+
+.f1:hover {
+    box-shadow: 1px 1px 3px 3px rgba(255, 166, 0, 0.761);
+}
+
+.f2 {
+
+    color: red;
+    margin-top: 4px;
+}
+
+
+.f3 {
+    text-decoration: none;
+    color: rgba(0, 0, 255, 0.806);
+}
+
+.f4 {
+    width: 100%;
+    height: 31px;
+    background: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+    color: #111
+}
+.f4:hover{
+
+
+    box-shadow: 1px 1px 3px 3px rgba(255, 166, 0, 0.761);
+}
